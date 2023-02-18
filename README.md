@@ -1,4 +1,5 @@
 FlightAware application provides details about flights.
+
 Users can list places, view flight prices, route wise flights, country details and city details. 
 
 Architecture:
