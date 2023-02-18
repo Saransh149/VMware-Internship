@@ -11,8 +11,11 @@ Architecture:
 Project Workflow:
 
 1.The user interacts with the application.
+
 2.Users send a request related to flights
+
 3.Data is stored in a database.
+
 4.Spring boot app processes the user’s request and gives an appropriate response to users
 
 This project Was created by Saransh Rajpurohit during his VMware Internship
